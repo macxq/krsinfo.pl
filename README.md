@@ -1,1 +1,0 @@
-# krsinfo.pl
